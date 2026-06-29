@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http://out-of-law-guild-bot.onrender.com/$1"
+    }
+  ]
+}
